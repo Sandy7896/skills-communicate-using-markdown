@@ -69,7 +69,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-This excersise helped me test out using basic functionality like headers using markdown. 
+# This excersise helped me test out using basic functionality like headers using markdown. 
 <footer>
 
 <!--
